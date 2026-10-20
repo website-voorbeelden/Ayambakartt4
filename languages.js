@@ -624,7 +624,9 @@
   "Ready to film": "Siap membuat konten",
   "I shoot with an iPhone 17 Pro and use lighting equipment for clear video and well-lit product shots.": "Saya memakai iPhone 17 Pro dan perlengkapan lampu untuk video yang jernih dan tampilan produk yang jelas.",
   "A community that shows up": "Komunitas yang selalu hadir",
-  "In seven months, I’ve grown to nearly 20K followers. Girls recognise me and come up to me every day. Regular viewers return to comment, join my LIVEs and ask about what I wear and use. Brands can become part of those conversations.": "Dalam tujuh bulan, akun saya tumbuh hingga hampir 20rb pengikut. Setiap hari ada perempuan yang mengenali dan menghampiri saya. Penonton setia kembali berkomentar, ikut LIVE, dan bertanya tentang produk yang saya pakai. Brand Anda bisa menjadi bagian dari percakapan itu."
+  "In seven months, I’ve grown to nearly 20K followers. Girls recognise me and come up to me every day. Regular viewers return to comment, join my LIVEs and ask about what I wear and use. Brands can become part of those conversations.": "Dalam tujuh bulan, akun saya tumbuh hingga hampir 20rb pengikut. Setiap hari ada perempuan yang mengenali dan menghampiri saya. Penonton setia kembali berkomentar, ikut LIVE, dan bertanya tentang produk yang saya pakai. Brand Anda bisa menjadi bagian dari percakapan itu.",
+  "A clear audience fit for": "Audiens yang tepat untuk",
+  "brands targeting women in Indonesia.": "brand yang menargetkan perempuan di Indonesia."
 };
  const messages={
   "Hi, I'd like to discuss a brand collaboration with @ayambakrrt4.": "Halo, saya ingin membahas kerja sama brand dengan @ayambakrrt4.",
